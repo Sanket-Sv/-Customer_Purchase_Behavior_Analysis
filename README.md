@@ -59,11 +59,14 @@ Gender vs Purchase Amount
 Age Group Distribution
 
 State-wise Sales
-the images are :
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/65e017c7-4c44-4bf7-9976-0609367ed75e" />
-<img width="500" height="300" alt="Screenshot 2025-09-01 121414" src="https://github.com/user-attachments/assets/01bd13ce-02d6-44ed-9983-0e4fb4762818" />
-<img width="500" height="300" alt="Screenshot 2025-09-01 121451" src="https://github.com/user-attachments/assets/2f3f053c-5e99-40a4-b4c3-fe69079e9799" />
-<img width="500" height="300" alt="Screenshot 2025-09-01 121428" src="https://github.com/user-attachments/assets/8582175e-0f45-4c52-9548-4b810fb35c00" />
+The images are :
+<img width="1598" height="592" alt="Screenshot 2025-09-01 121354" src="https://github.com/user-attachments/assets/efe8b387-010b-4256-9dc3-92e7542ca2c3" />
+<img width="1540" height="436" alt="Screenshot 2025-09-01 121414" src="https://github.com/user-attachments/assets/3d9dea30-1eb3-4442-be33-29d05f7e8cf1" />
+<img width="1567" height="444" alt="Screenshot 2025-09-01 121428" src="https://github.com/user-attachments/assets/045fd181-00fb-4fe2-81db-d3712b22e49d" />
+<img width="760" height="644" alt="Screenshot 2025-09-01 121451" src="https://github.com/user-attachments/assets/598d5598-c823-4595-bf6c-ac9df0d0c6b5" />
+
+
+
 
 📜 License
 
