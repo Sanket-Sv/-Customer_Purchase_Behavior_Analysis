@@ -1,4 +1,4 @@
-🛍️ Customer Purchase Behavior Analysis
+<img width="760" height="644" alt="image" src="https://github.com/user-attachments/assets/65e017c7-4c44-4bf7-9976-0609367ed75e" />🛍️ Customer Purchase Behavior Analysis
 📌 Overview
 
 This project explores customer purchase behavior using retail sales data. By applying Exploratory Data Analysis (EDA) with Python, the project uncovers insights about customer demographics, spending patterns, and product preferences during festive shopping seasons.
@@ -53,10 +53,6 @@ customer-purchase-behavior-analysis/
 │── requirements.txt
 │── LICENSE
 │── .gitignore
-
-📷 Sample Visualizations
-
-(Add screenshots in /images/ and reference here)
 
 Gender vs Purchase Amount
 
