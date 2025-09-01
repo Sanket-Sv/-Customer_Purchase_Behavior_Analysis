@@ -1,4 +1,4 @@
-<img width="760" height="644" alt="image" src="https://github.com/user-attachments/assets/65e017c7-4c44-4bf7-9976-0609367ed75e" />🛍️ Customer Purchase Behavior Analysis
+🛍️ Customer Purchase Behavior Analysis
 📌 Overview
 
 This project explores customer purchase behavior using retail sales data. By applying Exploratory Data Analysis (EDA) with Python, the project uncovers insights about customer demographics, spending patterns, and product preferences during festive shopping seasons.
@@ -59,6 +59,11 @@ Gender vs Purchase Amount
 Age Group Distribution
 
 State-wise Sales
+the images are :
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/65e017c7-4c44-4bf7-9976-0609367ed75e" />
+<img width="500" height="300" alt="Screenshot 2025-09-01 121414" src="https://github.com/user-attachments/assets/01bd13ce-02d6-44ed-9983-0e4fb4762818" />
+<img width="500" height="300" alt="Screenshot 2025-09-01 121451" src="https://github.com/user-attachments/assets/2f3f053c-5e99-40a4-b4c3-fe69079e9799" />
+<img width="500" height="300" alt="Screenshot 2025-09-01 121428" src="https://github.com/user-attachments/assets/8582175e-0f45-4c52-9548-4b810fb35c00" />
 
 📜 License
 
@@ -72,3 +77,8 @@ Pull requests are welcome! For significant changes, please open an issue first t
 👨‍💻 Author
 
 Your Name – Sanket-Sv
+
+
+
+
+
