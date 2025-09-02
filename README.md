@@ -79,7 +79,7 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 👨‍💻 Author
 
-Your Name – Sanket-Sv
+ Sanket-Sv
 
 
 
