@@ -1,5 +1,6 @@
 **🛍️ Customer Purchase Behavior Analysis**
 Festive Retail Sales | Exploratory Data Analysis (Python)
+
 **⚠️ THE PROBLEM**
 
 During festive seasons, retailers generate massive volumes of sales data — but raw data alone does not drive decisions.
